@@ -2,7 +2,7 @@
 
 This repository contains 2 gimp plugins that can be used to make very useful GIFs.
 
-## Gif Rotate plugin
+## Gif Rotate plugin
 
 This plugin allows you to create a GIF from the selected layer that will rotate around a point (by default the center of the layer).
 
@@ -18,7 +18,7 @@ Example:
 
 ![Delta small](demo/delta.gif)
 
-## Slice'n Save plugin
+## Slice'n Save plugin
 
 This plugin allows you to slice the image in multiple images by creating guides and
 triggering guillotine and automatically export them in the .gif format into a folder.
