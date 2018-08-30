@@ -30,7 +30,7 @@ You can customize:
 * Whether or not the image should be automatically converted.
     * The image need to be in indexed colors mode to be exported as a GIF. By default it's RGB so the image need to be converted.
     
-Example:
+Example: (if it's not sync, refresh this page)
 
 |                                              |                                              |
 | :------------------------------------------: | :------------------------------------------: |
