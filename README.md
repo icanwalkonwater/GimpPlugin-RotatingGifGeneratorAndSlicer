@@ -1,6 +1,7 @@
 # GimpPlugin RotatingGifGeneratorAndSlicer
 
 This repository contains 2 gimp plugins that can be used to make very useful GIFs.
+
 You can run `sh install.sh` to automatically move the 2 files in the plugin folder (`/usr/lib/gimp/2.0/plug-ins/`).
 
 ## Gif Rotate plugin
