@@ -34,7 +34,6 @@ You can customize:
     
 Example: (if it's not sync, refresh this page)
 
-|                                              |                                              |
-| :------------------------------------------: | :------------------------------------------: |
 | ![Delta slice 0-0](demo/delta_slice-0-0.gif) | ![Delta slice 1-0](demo/delta_slice-1-0.gif) |
+| :------------------------------------------: | :------------------------------------------: |
 | ![Delta slice 0-1](demo/delta_slice-0-1.gif) | ![Delta slice 1-1](demo/delta_slice-1-1.gif) |
